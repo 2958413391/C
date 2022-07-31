@@ -141,7 +141,7 @@ zixue
 //int main()
 //{
 //	int input = 0;
-//	printf("你会好好听小蒲的话吗？（1 or 0）:>");
+//	printf("你会好好听话吗？（1 or 0）:>");
 //	scanf("%d", &input);//1/0
 //	if (input == 1)
 //		printf("会\n");
@@ -154,7 +154,7 @@ zixue
 //int main()
 //{
 //	int line = 0;
-//	printf("喜欢小蒲多久？\n");
+//	printf("喜欢读书多久？\n");
 //
 //	while (line < 10000)
 //	{
@@ -162,7 +162,7 @@ zixue
 //		line++;
 //	}
 //	if (line >= 10000)
-//		printf("小蒲是你的了\n");
+//		printf("牛\n");
 //	return 0;
 //}
 
